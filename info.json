@@ -1,0 +1,8 @@
+{
+  "Id": "GondolaJobFix",
+  "DisplayName": "Gondola Job Fix",
+  "Version": "0.0.0",
+  "Author": "bigyihsuan",
+  "Repository": "https://raw.githubusercontent.com/bigyihsuan/GondolaJobFix/master/resources/repository.json",
+  "EntryMethod": "GondolaJobFix.Main.Load"
+}
